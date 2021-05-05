@@ -11,7 +11,7 @@ This is a Project Architecture leveraging Seldon Deployments on Kubernetes.
   <img width="900" height="500" src="utils/arch.png">
 </p>
 
-The Basic SeldonDeployment is shown below:
+The Basic Seldon Inference Graph is shown below:
 
 <p align="center">
   <img width="900" height="500" src="utils/seldond.jpg">
